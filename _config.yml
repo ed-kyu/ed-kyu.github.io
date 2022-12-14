@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Study
     url:               /study/
+  - title:             주제 없음
+    url:               /etc/
   - title:             Documentation
     url:               /docs/
   - title:             About
