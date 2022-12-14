@@ -34,7 +34,7 @@ tagline:               SeungKyu's Blog
 # A list of keywords for your blog
 keywords:              []
 
-# A (square) logo for your site.
+# A (square) logo for your: site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
@@ -49,7 +49,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             study
+  - title:             Study
     url:               /study/
   - title:             Documentation
     url:               /docs/
@@ -363,7 +363,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/ed-kyu
 
 
 # Plugin Configs
