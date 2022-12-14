@@ -42,7 +42,7 @@ source ~/.bashrc
 
 
 
-[jekyll 사이트]: https://jekyllrb-ko.github.io/
+[jekyll 사이트]: https://jekyllrb-ko.github.io/	"jekyll 사이트"
 
 ```shell
 gem update
@@ -92,13 +92,13 @@ bundle exec jekyll serve
 
 테마 찾는 사이트 목록
 
-- []: http://jekyllthemes.org/
+- [ ]: http://jekyllthemes.org/	"사이트1"
 
-- []: https://jekyllthemes.io/free
+- [ ]: https://jekyllthemes.io/free	"사이트2"
 
-- []: http://themes.jekyllrc.org/
+- [ ]: http://themes.jekyllrc.org/	"사이트3"
 
-- []: https://github.com/topics/jekyll-theme
+- [ ]: https://github.com/topics/jekyll-theme	"사이트4"
 
 
 
