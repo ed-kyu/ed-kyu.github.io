@@ -17,7 +17,7 @@ hide_last_modified: true
 
 ### 2. Jekyll 다운 (WSL 이용)
 
-**리눅스**에서 ruby를 다운로드 먼저 하고 진행해야 한다.
+**리눅스** **터미널**에서 ruby를 다운로드 먼저 하고 진행해야 한다.
 
 ```shell
 sudo apt-get install ruby
@@ -31,7 +31,7 @@ E: Unable to fetch some archives, maybe run apt-get update or try with --fix-mis
 
 
 
-gem 명령어를 사용하려고 하니 이번에는 `Ruby: You don't have write permissions for the /var/lib/gems/2.7.0 directory.` 와 같은 에러가 발생 => 아래와 같이 환경변수를 추가해서 해결
+gem 명령어를 사용하려고 하니 이번에는 `Ruby: You don't have write permissions for the /var/lib/gems/2.7.0 directory.` 에러가 발생 => 아래와 같이 환경변수를 추가해서 해결
 
 ```shell
 echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
@@ -42,7 +42,7 @@ source ~/.bashrc
 
 
 
-https://jekyllrb-ko.github.io/
+[jekyll 사이트]: https://jekyllrb-ko.github.io/
 
 ```shell
 gem update
@@ -90,12 +90,15 @@ bundle exec jekyll serve
 
 ### 5. Jekyll 테마 골라서 적용
 
-테마 찾는 사이트: 
+테마 찾는 사이트 목록
 
-- http://jekyllthemes.org/
-- https://jekyllthemes.io/free
-- http://themes.jekyllrc.org/
-- https://github.com/topics/jekyll-theme
+- []: http://jekyllthemes.org/
+
+- []: https://jekyllthemes.io/free
+
+- []: http://themes.jekyllrc.org/
+
+- []: https://github.com/topics/jekyll-theme
 
 
 
