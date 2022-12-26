@@ -2,7 +2,7 @@
 
 
 
-<img src="김승규(Seungkyu Kim).assets/3x4_2.jpg" alt="3x4_2" style="zoom:12%;" />
+<img src="skkim.assets/3x4_2.jpg" alt="3x4_2" style="zoom:12%;" />
 
 
 
