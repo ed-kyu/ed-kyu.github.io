@@ -49,6 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Profile
+    url:               /skkim/
   - title:             Study
     url:               /study/
   - title:             Computer Science
