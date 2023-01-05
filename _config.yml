@@ -57,6 +57,8 @@ menu:
     url:               /cs/
   - title:             Machine Learning/ Deep Learning
     url:               /mldl/
+  - title:             Data Engineering
+    url:               /de/
   - title:             주제 없음
     url:               /etc/
   - title:             Documentation
