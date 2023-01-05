@@ -385,7 +385,8 @@ RUN chown -R "airflow" "${AIRFLOW_HOME}"
 USER airflow
 WORKDIR ${AIRFLOW_HOME}
 ```
-
+</div>
+</details>
 
 
 1. `.env`파일 생성
