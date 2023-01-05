@@ -332,6 +332,7 @@ Dockerfile을 다음과 같이 작성했다.
 <details>
 <summary>Dockerfile</summary>
 <div markdown="1">
+
 ```dockerfile
 FROM apache/airflow:2.2.0-python3.7
 
